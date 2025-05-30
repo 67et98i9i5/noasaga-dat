@@ -9712,6 +9712,34 @@
                         "status": "",
                         "aired_on": "",
                         "episode_link": "https://t.me/NoasagaAnime_bot?start=67898_s2_19"
+                    },
+                    "Episode 20": {
+                        "ep_name": "Episode 20",
+                        "ep_number": "20",
+                        "qualities": {
+                            "360p": {
+                                "file_url": "n/a",
+                                "file_id": "BAACAgUAAyEFAASL1Ou-AANDaDnuK-q2gC7VnrabdKZakHUsiN0AAjsbAALEc9FVW5ouiAM_vpY2BA",
+                                "file_unique_id": "AgADOxsAAsRz0VU",
+                                "file_size": "40.55 MB"
+                            },
+                            "720p": {
+                                "file_url": "n/a",
+                                "file_id": "BAACAgUAAyEFAASL1Ou-AANEaDnuQw1sv45hAuGsTXl6vLKajRsAAjwbAALEc9FVAmhDc5Zvb5E2BA",
+                                "file_unique_id": "AgADPBsAAsRz0VU",
+                                "file_size": "103.93 MB"
+                            },
+                            "1080p": {
+                                "file_url": "n/a",
+                                "file_id": "BAACAgUAAyEFAASL1Ou-AANFaDnuZDRfuOFxlkTlpJYgxAvGQSYAAj0bAALEc9FVZxU-o_YexFg2BA",
+                                "file_unique_id": "AgADPRsAAsRz0VU",
+                                "file_size": "155.96 MB"
+                            }
+                        },
+                        "duration": "",
+                        "status": "",
+                        "aired_on": "",
+                        "episode_link": "https://t.me/NoasagaAnime_bot?start=67898_s2_20"
                     }
                 }
         }
